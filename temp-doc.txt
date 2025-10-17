@@ -1,0 +1,5 @@
+#5.1 - we used this command to copy files from the repository my-first-project to the repository green-fads-first-project
+    # cp ../my-first-project/temp-* .
+    #cp - copy + (..) - repository above + (name of the repository where the documets are) + name of documents (all start with temp-(...))
+#5.2 - git init is used to start an empty git repository. Since we forked the main repository, it is not empty, therefore there is no need to start an empty one
+#5.3 - Yes, you can commit the files coppied, by changing the documents doing git add . (to add all the documents) and then git commit to add them to the git repository.
